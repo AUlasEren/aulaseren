@@ -2,7 +2,7 @@
 
 **Mobile Developer & CS Master's Student**
 
-Building AI-powered mobile apps with React Native/Expo, backed by Python & C# .NET services.
+Building AI-powered mobile apps with React Native/Expo, backed by C# .NET services.
 
 ---
 
