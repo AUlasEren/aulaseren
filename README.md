@@ -66,11 +66,6 @@ I build mobile apps with React Native and Expo, and native ones with Swift (Swif
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-444444?style=flat-square)
 
 
-### Currently
-
-- 🎓 Master's in Computer Engineering @ Başkent University
-- 🔊 Building voice chat infra — FastAPI streaming + WebSocket audio delivery
-
 ---
 
 ### Get In Touch
